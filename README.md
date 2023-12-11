@@ -52,7 +52,7 @@ Ademais, para a finalização do projeto, foi ajustado através da própria ferr
 # FACE RENDERIZADA
 Podemos notar um realismo legal, na parte da face, que fizemos.
 
-![Renderimage](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-aplicacaografica3d/assets/132021267/5669f2b6-4c08-4a6a-a3bf-99bfab4916eb)
+![Renderimage](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-aplicacaografica3d/assets/132021267/30255e2b-1bed-4e65-bc56-b7bfdef56d48)
 
 
 ###  11/12/23
