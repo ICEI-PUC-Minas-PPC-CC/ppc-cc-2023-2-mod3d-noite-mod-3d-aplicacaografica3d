@@ -7,7 +7,7 @@ Nesse  vídeo, explico os bastidores dos meus projetos de modelagem 3D. Além di
 
 [Title](Demonstra%C3%A7%C3%A3o.mpeg)
 
-# teste 
+# TESTE
 
 Espero que goste de nosso trabalho! :D
 
