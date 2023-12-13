@@ -5,9 +5,7 @@ E aí, pessoal! (Will)
 
 Nesse  vídeo, explico os bastidores dos meus projetos de modelagem 3D. Além disso, como bônus, fizemos uma animação da famosa banana do Fortnite! 🍌✨
 
-[Title](Demonstra%C3%A7%C3%A3o.mpeg)
 
-# TESTE
 
 Espero que goste de nosso trabalho! :D
 
