@@ -29,7 +29,8 @@ Iluminação: Colocamos 5 lights em pontos estrategicos para que fique proporcio
 Animação: A animação importamos através do mixamo, a escolha da dupla, colocamos uma "Dançinha", para que fique interativo o personagem.
 
 
-![Renderimagebanana](https://github.comcom/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-aplicacaografica3d/assets/132021267/6444ee6a-da52-4553-a8b9-68d1bdbafd4f)
+
+![Renderimagebanana](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-aplicacaografica3d/assets/132021267/c074340a-6b91-409b-8943-666922c96d1c)
 
 
 
