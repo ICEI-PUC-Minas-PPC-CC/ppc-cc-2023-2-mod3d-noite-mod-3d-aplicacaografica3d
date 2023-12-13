@@ -14,18 +14,22 @@
 
 - WILL MACHADO
 
-## PROJETO MODELAGEM 3D - ANIMAÇÕES (INFORMAÇÕES)
+## PROJETO MODELAGEM 3D - ANIMAÇÕES (INFORMAÇÕES) Blender Modelagem 3D && Blender Animation
 
-
-## A realização do projeto teve seu início a partir da seleção de qual atividade seria realizada pelo grupo, neste caso foi a modelagem de um personagem 3D.
 O personagem em questão foi o "Peele", popularmente conhecido como "o banana" do jogo "Fortnite".
 
 Para a criação das partes do corpo, como braços, pernas, dedos e tronco, foram usadas formas geométricas primitivas e sendo realizada uma mesclagem entre essas formas para uma melhor harmonização dos membros.
 Seguindo, depois de todo o personagem pronto, foi utilizado um outro programa chamado "Zbrush" para uma maior aplicação de detalhes no personagem e em seguida, novamente o blender para a texturização do mesmo, com 8 materiais.
 Concluindo, foi adicionado o plano em que o personagem estaria e a iluminação desejada para uma melhor visualização.
 
+Cenário: Fizemos o cenario com um plane, e modelamos o mesmo, de uma realidade 3D na cena, deixamos ele refletivo, para que ao bater luz, nos de uma perspectiva de sombra.
 
-![Renderimagebanana](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-aplicacaografica3d/assets/132021267/6444ee6a-da52-4553-a8b9-68d1bdbafd4f)
+Iluminação: Colocamos 5 lights em pontos estrategicos para que fique proporcional a iluminação.
+
+Animação: A animação importamos através do mixamo, a escolha da dupla, colocamos uma "Dançinha", para que fique interativo o personagem.
+
+
+![Renderimagebanana](https://github.comcom/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-aplicacaografica3d/assets/132021267/6444ee6a-da52-4553-a8b9-68d1bdbafd4f)
 
 
 
@@ -39,7 +43,7 @@ va.
 https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-aplicacaografica3d/assets/132021267/cee61b6b-bf52-4dbe-8119-5563604d2ac9
 
 
-## MODELAGEM DA FACE (FIZEMOS POR OPÇÃO PONTO EXTRAS, JUNTAMENTE COM ANIMAÇÃO DO MODELO 3D DA BANANA)
+## MODELAGEM DA FACE
 
 Para a modelagem do rosto, primeiramente foi baixado a extensão do blender (Face Builder), a seguir, foi feita uma busca na Internet para a seleção do rosto que seria utilizado, e assim, sendo possível obter imagens da face de todos os ângulos necessários. 
 Ademais, para a finalização do projeto, foi ajustado através da própria ferramenta, os detalhes finais (cabelo, olhos, malhas, etc).
