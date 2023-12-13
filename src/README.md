@@ -1,1 +1,1 @@
-# Aguardando professor ensinar a upar arquivos (pesado pro git)
+## (AVISO) PROFESSOR DISSE QUE IRA ENSINAR A UPAR OS ARQUIVOS PESADOS PARA O GITHUB,AGUARDANDO AULA DE HOJE.
