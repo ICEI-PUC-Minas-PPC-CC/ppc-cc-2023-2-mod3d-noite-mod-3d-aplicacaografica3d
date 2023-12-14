@@ -1,1 +1,3 @@
-## (AVISO) PROFESSOR DISSE QUE IRA ENSINAR A UPAR OS ARQUIVOS PESADOS PARA O GITHUB,AGUARDANDO AULA DE HOJE.
+# Acima os arquivos editaveis do projeto.
+:D
+# Divirta-se
