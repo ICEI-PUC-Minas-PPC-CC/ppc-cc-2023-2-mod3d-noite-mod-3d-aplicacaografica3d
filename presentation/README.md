@@ -1,8 +1,7 @@
-## (AVISO) PROFESSOR DISSE QUE IRA ENSINAR A UPAR OS ARQUIVOS PESADOS PARA O GITHUB,AGUARDANDO AULA DE HOJE.
 
 
 # Apresentação / Demonstração
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+
 
 E aí, pessoal! (Will)
 
@@ -13,4 +12,6 @@ Nesse  vídeo, explico os bastidores dos meus projetos de modelagem 3D. Além di
 Espero que goste de nosso trabalho! :D
 
 Abraços,
-Equipe, Vitor Grnato, Kleberson Lima.
+Equipe, Vitor Granato, Kleberson Lima.
+
+## Video logo acima.
