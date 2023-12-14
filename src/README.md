@@ -1,3 +1,3 @@
-# Acima os arquivos editaveis do projeto.
+Acima os arquivos editaveis do projeto.
 :D
-# Divirta-se
+Divirta-se
